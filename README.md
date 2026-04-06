@@ -1,8 +1,3 @@
-<div align="center">
-  <p>Visitor count</p>
-  <img src="https://profile-counter.glitch.me/duyhuynh1101/count.svg" alt="Visitor's Count" />
-</div>
-
 <h1 align="center">
   <img src="https://readme-typing-svg.herokuapp.com/?font=Inter&size=40&center=true&vCenter=true&width=600&height=70&color=4493F8&duration=4000&lines=Hey,+I'm+Duy+Huynh!+👋;CS+%26+Econ+@+Wesleyan;Builder.+Thinker.+Optimizer." />
 </h1>
@@ -78,9 +73,9 @@
 <br>
 
 <div align="center">
-  <img width=390 src="https://github-readme-stats.vercel.app/api?username=duyhuynh1101&theme=transparent&count_private=true&show_icons=true&rank_icon=github&locale=en" alt="Duy's GitHub Stats" />
-  <img width=390 src="https://github-readme-streak-stats.herokuapp.com/?user=duyhuynh1101&theme=transparent&count_private=true&border_radius=10&locale=en" alt="Duy's Streak" />
-  <img width=325 src="https://github-readme-stats.vercel.app/api/top-langs?username=duyhuynh1101&theme=transparent&layout=donut&langs_count=8&border_radius=10&show_icons=true&locale=en" alt="Duy's Most Used Languages" />
+  <img width=390 src="https://github-readme-stats-salesp07.vercel.app/api?username=duyhuynh1101&theme=transparent&count_private=true&show_icons=true&rank_icon=github&locale=en" alt="Duy's GitHub Stats" />
+  <img width=390 src="https://streak-stats.demolab.com/?user=duyhuynh1101&theme=transparent&count_private=true&border_radius=10&locale=en" alt="Duy's Streak" />
+  <img width=325 src="https://github-readme-stats-salesp07.vercel.app/api/top-langs?username=duyhuynh1101&theme=transparent&layout=donut&langs_count=8&border_radius=10&show_icons=true&locale=en" alt="Duy's Most Used Languages" />
 </div>
 
 <hr>
